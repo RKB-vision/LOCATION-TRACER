@@ -1,6 +1,6 @@
 # Location Tracer
 
-A minimal Python script for location tracing/prototyping. This repository contains `loc.py`.
+A minimal Python script for location tracing/prototyping using public IP and will return the location and basic details about the ISP. This repository contains `loc.py`.
 
 ## Requirements
 - Python 3.8+
